@@ -11,6 +11,7 @@ This is weather status web site to show the wether in a specific city
 
 ## Technologies used :- 
 - React js freamwork.
+- openwether Api.
 - mui library.
 - moment.js library.
 - i18next library.
